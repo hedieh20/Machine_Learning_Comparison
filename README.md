@@ -1,2 +1,19 @@
 # ML_model_evaluation_and_analyses
-A comprehensive ML project evaluating multiple algorithms on the same dataset, analyzing prediction performance, and investigating misclassification reasons.
+
+## Overview
+A project comparing multiple machine learning algorithms on the same dataset to evaluate performance differences.
+
+## Tools
+Python, Scikit-learn, Pandas, NumPy
+
+## What I did
+- Implemented multiple ML models
+- Tuned hyperparameters
+- Evaluated models using accuracy and confusion matrix
+- Compared performance results
+
+## Result
+KNN performed best among tested models (~74% accuracy)
+
+## Conclusion
+Model performance depends heavily on feature selection and tuning.
