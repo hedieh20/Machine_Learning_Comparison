@@ -1,4 +1,4 @@
-# ML_model_evaluation_and_analyses
+# Machine_Learning_Comparison
 
 ## Overview
 A project comparing multiple machine learning algorithms on the same dataset to evaluate performance differences.
